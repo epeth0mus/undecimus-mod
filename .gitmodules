@@ -1,0 +1,15 @@
+[submodule "Injector"]
+	path = Injector
+	url = https://github.com/pwn20wndstuff/Injector.git
+[submodule "snappy"]
+	path = snappy
+	url = https://github.com/sbingner/snappy.git
+[submodule "patchfinder64"]
+	path = patchfinder64
+	url = https://github.com/pwn20wndstuff/patchfinder64.git
+[submodule "offset-cache"]
+	path = offset-cache
+	url = https://github.com/sbingner/offset-cache.git
+[submodule "kerneldec"]
+	path = kerneldec
+	url = https://github.com/sbingner/kerneldec.git
