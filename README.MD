@@ -1,10 +1,11 @@
-# unc0ver
+# unc0ver Modified
 ### The most advanced jailbreak tool
 ![unc0ver logo](https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png)
 
-unc0ver jailbreak for iOS 11.0 - 12.2<br/>
+unc0ver jailbreak for iOS 11.0 - 14.7<br/>
 by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/sbingner)<br/>
 UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https://twitter.com/HiMyNameIsUbik)<br/>
+Modified to support iOS 14.7 by [@epeth0mus](https://twitter.com/epeth0mus)
 
 ## The most outstanding changes over the other jailbreaks
 * One app to jailbreak all firmwares
@@ -35,6 +36,7 @@ UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https:
 ## Getting support
 * Use the built-in diagnostics tool
 * Tweet [@pwn20wnd](https://twitter.com/Pwn20wnd)
+* iOS 14.7 Issues Tweet [@epeth0mus](https://twitter.com/epeth0mus)
 
 ## Best practices
 * Turn on the AirPlane Mode before starting the jailbreak
@@ -43,7 +45,8 @@ UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https:
 ## Source code
 * This project is completely open source and it will be kept like it in the future
 * Any kind of contribution is welcome
-* The source code can be found on [pwn20wndstuff](https://github.com/pwn20wndstuff)'s GitHub account
+* The original source code can be found on [pwn20wndstuff](https://github.com/pwn20wndstuff)'s GitHub account
+* The Modded / Modified source code can be found on [epeth0mus](https://github.com/epeth0mus/)'s GitHub account
 
 ## Video tutorial
 * <a href="https://youtu.be/TqHYjLHO0zs">https://youtu.be/TqHYjLHO0zs</a>
