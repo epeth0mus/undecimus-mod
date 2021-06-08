@@ -5,7 +5,8 @@
 unc0ver jailbreak for iOS 11.0 - 14.7<br/>
 by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/sbingner)<br/>
 UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https://twitter.com/HiMyNameIsUbik)<br/>
-Modified to support iOS 14.7 by [@epeth0mus](https://twitter.com/epeth0mus)
+Modified to support iOS 14.7 by [@epeth0mus](https://twitter.com/epeth0mus)<br/>
+More details about [Unc0ver 14.6](https://taig9.com/jailbreak/ios-14-6/)
 
 ## The most outstanding changes over the other jailbreaks
 * One app to jailbreak all firmwares
