@@ -2,11 +2,12 @@
 ### The most advanced jailbreak tool
 ![unc0ver logo](https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png)
 
-unc0ver jailbreak for iOS 11.0 - 14.7<br/>
+unc0ver jailbreak for iOS 11.0 - iOS 15<br/>
 by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/sbingner)<br/>
 UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https://twitter.com/HiMyNameIsUbik)<br/>
-Modified to support iOS 14.7 by [@epeth0mus](https://twitter.com/epeth0mus)<br/>
+Modified to support iOS 15 by [@epeth0mus](https://twitter.com/epeth0mus)<br/>
 More details about [Unc0ver 14.6](https://taig9.com/jailbreak/ios-14-6/)
+More details about [Unc0ver iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15/)
 
 ## The most outstanding changes over the other jailbreaks
 * One app to jailbreak all firmwares
@@ -37,7 +38,7 @@ More details about [Unc0ver 14.6](https://taig9.com/jailbreak/ios-14-6/)
 ## Getting support
 * Use the built-in diagnostics tool
 * Tweet [@pwn20wnd](https://twitter.com/Pwn20wnd)
-* iOS 14.7 Issues Tweet [@epeth0mus](https://twitter.com/epeth0mus)
+* iOS 14.7 / iOS 15 Issues Tweet [@epeth0mus](https://twitter.com/epeth0mus)
 
 ## Best practices
 * Turn on the AirPlane Mode before starting the jailbreak
