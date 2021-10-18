@@ -6,7 +6,7 @@ unc0ver jailbreak for iOS 11.0 - iOS 15<br/>
 by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/sbingner)<br/>
 UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https://twitter.com/HiMyNameIsUbik)<br/>
 Modified to support iOS 15 by [@epeth0mus](https://twitter.com/epeth0mus)<br/>
-More details about [Unc0ver 14.6](https://taig9.com/jailbreak/ios-14-6/)
+More details about [Unc0ver 15.1 Jailbreak](https://taig9.com/jailbreak/ios-15-1/)
 More details about [Unc0ver iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15/)
 
 ## The most outstanding changes over the other jailbreaks
@@ -38,7 +38,7 @@ More details about [Unc0ver iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15
 ## Getting support
 * Use the built-in diagnostics tool
 * Tweet [@pwn20wnd](https://twitter.com/Pwn20wnd)
-* iOS 14.7 / iOS 15 Issues Tweet [@epeth0mus](https://twitter.com/epeth0mus)
+* iOS 15 - iOS 15.1 Issues Tweet [@epeth0mus](https://twitter.com/epeth0mus)
 
 ## Best practices
 * Turn on the AirPlane Mode before starting the jailbreak
