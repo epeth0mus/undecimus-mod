@@ -60,7 +60,7 @@ More details about [Unc0ver iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15
 ## Changelog
 * Releases are available at https://github.com/pwn20wndstuff/Undecimus/releases (Note: rc1-v1.1.4 releases are no longer available)
 
-##iOS 15.2 update
+## iOS 15.2 update
 More details about [Unc0ver iOS 15.2 Jailbreak](https://taig9.com/jailbreak/ios-15-2/)
 
 ## Special Thanks
