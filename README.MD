@@ -9,6 +9,7 @@ Modified to support iOS 15 by [@epeth0mus](https://twitter.com/epeth0mus)<br/>
 More details about [Unc0ver 15.1 Jailbreak](https://taig9.com/jailbreak/ios-15-1/)
 More details about [Unc0ver iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15/)
 
+
 ## The most outstanding changes over the other jailbreaks
 * One app to jailbreak all firmwares
 * Full-fledged Cydia and Substrate support for ARM64 devices
@@ -58,6 +59,9 @@ More details about [Unc0ver iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15
 
 ## Changelog
 * Releases are available at https://github.com/pwn20wndstuff/Undecimus/releases (Note: rc1-v1.1.4 releases are no longer available)
+
+##iOS 15.2 update
+More details about [Unc0ver iOS 15.2 Jailbreak](https://taig9.com/jailbreak/ios-15-2/)
 
 ## Special Thanks
 * [@i41nbeer](https://twitter.com/i41nbeer) for mach_portal, triple_fetch, async_wake, empty_list, multi_path and deja_xnu
